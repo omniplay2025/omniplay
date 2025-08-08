@@ -1,0 +1,31 @@
+[
+    {
+        "api_base": "",
+        "api_key": "EMPTY",
+        "model": "",
+        "player_id": 0,
+        "description": "Qwen2.5 Omni 7B - 红色玩家"
+    },
+    {
+        "api_base": "",
+        "api_key": "EMPTY",
+        "model": "",
+        "player_id": 1,
+        "description": "MiniCPM-o-2.6 - 蓝色玩家"
+    },
+    {
+        "api_base": "",
+        "api_key": "EMPTY",
+        "model": "",
+        "player_id": 2,
+        "description": "Gemini 2.5 Flash - 绿色玩家"
+    },
+    {
+        "api_base": "",
+        "api_key": "EMPTY",
+        "model": "",
+        "player_id": 3,
+        "description": "Gemini 2.5 Pro - 黄色玩家"
+    }
+]
+
